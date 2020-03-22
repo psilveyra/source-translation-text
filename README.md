@@ -4,7 +4,7 @@
 
 ## Useful info to get started 
 
-We use plain text (markdown), one can paste own trasnlation from any source. 
+We use plain text (markdown), one can paste own translation from any source. 
 
 * [Markdown Reference](https://guides.github.com/features/mastering-markdown/)
 
